@@ -1,6 +1,6 @@
 {
         "AUTHOR" : "Caleb Johnson (@calebj#0001); audited by fuyubear for quality control for rbCa@Discord",
-        "INSTALL_MSG" : "Thanks for adding my repo! If you need any help, ask in my Red Cog support server (<https://discord.gg/2DacSZ7>) channel, or DM me (<@!152111727402680320>).\n\nIf my work has made your life easier, consider becoming a patron at <https://www.patreon.com/calebj>",
+        "INSTALL_MSG" : "Sucessfully added the fuyubear/calebj-cogs repo! From original author: Thanks for adding my repo! If you need any help, ask in my Red Cog support server (<https://discord.gg/2DacSZ7>) channel, or DM me (<@!152111727402680320>).\n\nIf my work has made your life easier, consider becoming a patron at <https://www.patreon.com/calebj>",
         "NAME" : "calebj-cogs-rbca",
         "SHORT" : "General, fun and utility cogs.",
         "DESCRIPTION" : "This is where I put my cogs for Red. I hope you find them useful!"
